@@ -1,0 +1,9 @@
+fastapi==0.112.2
+uvicorn==0.20.0
+scikit-learn==1.2.2
+joblib==1.2.0
+pandas==2.2.1
+numpy==1.26.4
+pydantic==2.5.3
+xgboost==2.0.3
+lightgbm==4.5.0
